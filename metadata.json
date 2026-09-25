@@ -1,0 +1,6 @@
+{
+  "name": "Rabby Social",
+  "description": "A feature-rich social networking app with posts, media sharing, profiles, follow/unfollow, comments, likes, saved items, and account switching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
